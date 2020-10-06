@@ -1,0 +1,24 @@
+@font-face{
+	src: url('../font/AvenirNextLTPro-Bold.otf');
+	font-family: ABold;
+}
+@font-face{
+	src: url('../font/AvenirNextLTPro-MediumCn.otf');
+	font-family: AMedium;
+}
+@font-face{
+	src: url('../font/AvenirNextLTPro-Regular.otf');
+	font-family: ARegular;
+}
+@font-face{
+	src: url('../font/PlayfairDisplay-Black.otf');
+	font-family: PBlack;
+}
+@font-face{
+	src: url('../font/PlayfairDisplay-Bold.otf');
+	font-family: PBold;
+}
+@font-face{
+	src: url('../font/PlayfairDisplay-Regular.otf');
+	font-family: PRegular;
+}
